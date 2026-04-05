@@ -1,2 +1,0 @@
-# EbookReader
-EbookReader for macOS
