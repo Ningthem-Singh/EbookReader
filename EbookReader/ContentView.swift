@@ -23,7 +23,7 @@ struct ContentView: View {
             Button("Open PDF") {
                 openPDF()
             }
-            .padding()
+            .padding() 
         }
         .frame(minWidth: 800, minHeight: 600)
     }
